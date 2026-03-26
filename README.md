@@ -1,12 +1,10 @@
-# program-5-d-
+# program-5b
 C module 5
-EX NO:5-d) Count the number of alphabets in a given string.
+EX NO:5-b) Count the number of alphabets in a given string.
 
-Date:19/10/2025 
-
-Name: VASANTH S 
-
-Ref no: 25017538
+Date: 26/03/26
+Name: JADEN SAMUEL ABRAHAM
+Ref no: 25003451
 
 AIM:
 To write a c program to count the number of alphabets in a given string.
