@@ -3,7 +3,7 @@ C module 5
 EX NO:5-b) Count the number of alphabets in a given string.
 
 Date: 26/03/26
-Name: JADEN SAMUEL ABRAHAM
+Name: JADEN SAMUEL ABRAHAM 
 Ref no: 25003451
 
 AIM:
